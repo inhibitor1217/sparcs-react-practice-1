@@ -1,0 +1,17 @@
+
+.input {
+
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1.5px solid #737373;
+    color: #1A1A1A;
+    padding: 0.5rem 0 0.5rem 0;
+    font-size: 1.25rem;
+    transition: color .3s, border-color .3s;
+
+}
+
+.input::placeholder {
+    color: #737373;
+}
